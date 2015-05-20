@@ -3,7 +3,11 @@
 
 Este proyecto en GitHub sirve como nodo central de coordinación de mi proyecto para el módulo de "Proyecto Integrado" de ASIR **"Editor GIFT y Generador de Encuestas en SCORM"**, así como repositorio de la documentación principal del proyecto.
 
-Para más información, puede visitar el wiki del proyecto: https://github.com/PedroBlanco/central-proyectoASIR/wiki
+Para más información, puede visitar el wiki del proyecto:
+
+https://github.com/PedroBlanco/central-proyectoASIR/wiki
+
+---
 
 ## Repositorios relacionados
 
