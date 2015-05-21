@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/PedroBlanco/central-proyectoASIR.png?label=ready&title=Ready)](https://waffle.io/PedroBlanco/central-proyectoASIR)
 # *Editor GIFT y Generador de Encuestas en SCORM*
 ## Proyecto Integrado ASIR curso 2014-2015
 
