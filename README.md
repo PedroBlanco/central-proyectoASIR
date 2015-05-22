@@ -1,12 +1,6 @@
-
 # *Editor GIFT y Generador de Encuestas en SCORM*
-## Proyecto Integrado ASIR curso 2014-2015
 
-[![Stories in Ready](https://badge.waffle.io/PedroBlanco/central-proyectoASIR.png?label=ready&title=Ready)](https://waffle.io/PedroBlanco/central-proyectoASIR)
-
-Este proyecto en GitHub sirve como nodo central de coordinación de mi proyecto para el módulo de "Proyecto Integrado" de ASIR **"Editor GIFT y Generador de Encuestas en SCORM"**, así como repositorio de la documentación principal del proyecto.
-
----
+[![Ready](https://badge.waffle.io/PedroBlanco/central-proyectoASIR.png?label=ready&title=Ready)](https://waffle.io/PedroBlanco/central-proyectoASIR) [![Abiertas?](https://badge.waffle.io/PedroBlanco/central-proyectoASIR.png?label=open&title=Open)](https://waffle.io/PedroBlanco/central-proyectoASIR) [![En progreso](https://badge.waffle.io/PedroBlanco/central-proyectoASIR.png?label=in%20progress&title=In%20Progress)](https://waffle.io/PedroBlanco/central-proyectoASIR)
 
 ##Información rápida del proyecto
 
@@ -17,8 +11,16 @@ Este proyecto en GitHub sirve como nodo central de coordinación de mi proyecto 
 * Wiki (documento de proyecto):
   * https://github.com/PedroBlanco/central-proyectoASIR.wiki.git
 
+### Gráfico de actividad
+[![Throughput Graph](https://graphs.waffle.io/pedroblanco/central-proyectoasir/throughput.svg)](https://waffle.io/pedroblanco/central-proyectoasir/metrics)
+
 ---
 
+## Introducción
+
+Este proyecto en GitHub sirve como nodo central de coordinación de mi proyecto para el módulo de "Proyecto Integrado" de ASIR (curso 2014-2015) **"Editor GIFT y Generador de Encuestas en SCORM"**, así como repositorio de la documentación principal del proyecto.
+
+---
 ## Repositorios relacionados
 
 * [Generador Web de encuestas empaquetadas en SCORM](https://github.com/PedroBlanco/scorm-encuesta).
