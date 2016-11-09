@@ -9,7 +9,8 @@
 * Panel de seguimiento de las tareas del proyecto:
   * https://waffle.io/pedroblanco/central-proyectoasir
 * Wiki (documento de proyecto):
-  * https://github.com/PedroBlanco/central-proyectoASIR.wiki.git
+  * https://github.com/PedroBlanco/central-proyectoASIR/wiki
+  
 
 ### Gráfico de actividad
 [![Throughput Graph](https://graphs.waffle.io/pedroblanco/central-proyectoasir/throughput.svg)](https://waffle.io/pedroblanco/central-proyectoasir/metrics)
