@@ -1,7 +1,5 @@
 # *Generador de Encuestas SCORM*
 
-[![Ready](https://badge.waffle.io/PedroBlanco/central-proyectoASIR.png?label=ready&title=Ready)](https://waffle.io/PedroBlanco/central-proyectoASIR) [![Abiertas?](https://badge.waffle.io/PedroBlanco/central-proyectoASIR.png?label=open&title=Open)](https://waffle.io/PedroBlanco/central-proyectoASIR) [![En progreso](https://badge.waffle.io/PedroBlanco/central-proyectoASIR.png?label=in%20progress&title=In%20Progress)](https://waffle.io/PedroBlanco/central-proyectoASIR)
-
 ##Información rápida del proyecto
 
 * Nombre:
@@ -11,10 +9,6 @@
 * Wiki (documento de proyecto):
   * https://github.com/PedroBlanco/central-proyectoASIR/wiki
   
-
-### Gráfico de actividad
-[![Throughput Graph](https://graphs.waffle.io/pedroblanco/central-proyectoasir/throughput.svg)](https://waffle.io/pedroblanco/central-proyectoasir/metrics)
-
 ---
 
 ## Introducción
