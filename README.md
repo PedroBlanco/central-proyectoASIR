@@ -4,8 +4,6 @@
 
 * Nombre:
   * Generador de Encuestas SCORM.
-* Panel de seguimiento de las tareas del proyecto:
-  * https://waffle.io/pedroblanco/central-proyectoasir
 * Wiki (documento de proyecto):
   * https://github.com/PedroBlanco/central-proyectoASIR/wiki
   
