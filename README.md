@@ -1,6 +1,6 @@
 # *Generador de Encuestas SCORM*
 
-##Información rápida del proyecto
+## Información rápida del proyecto
 
 * Nombre:
   * Generador de Encuestas SCORM.
